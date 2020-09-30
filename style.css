@@ -1,0 +1,52 @@
+body {
+    background-color:#F0F0F0;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.bold { 
+    font-weight: bolder;
+}
+.row {
+    margin-bottom:10px;
+}
+button {
+    margin: 2em 0;
+    padding: 1em 4em;
+    display:block;
+}
+
+#name{
+    margin-bottom: 11px;
+
+}
+#story{
+    margin-left: 5px;
+    
+}
+
+#ra{
+    margin-left: 28px;
+    margin-top: : 29px;
+}
+
+#dec{
+    margin-left: 16px;
+    margin-bottom: 10px;
+}
+
+#mag{
+    margin-left: 10px;
+}
+
+.searchHeading{
+    margin-left: 430px;
+    margin-top: 65px;
+}
+
+#token{
+    margin-bottom: 10px;
+}
